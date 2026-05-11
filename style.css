@@ -1,0 +1,39 @@
+ #topo{
+            background-color: lightblue;
+            text-align: center;
+            padding: 20px;
+        }
+
+        
+        #menu{
+            background-color: gray;
+            text-align: center;
+            padding: 10px;
+        }
+
+        #menu a{
+            color: white;
+            text-decoration: none;
+            margin: 10px;
+        }
+
+       
+        .card{
+            background-color: white;
+            border: 1px solid black;
+            width: 200px;
+            padding: 10px;
+            margin: 20px;
+            display: inline-block;
+   }
+
+       
+        #footer{
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+        .card:hover{
+            transform: scale(1.3);
+        }
